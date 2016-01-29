@@ -1,0 +1,15 @@
+// Colors
+$yellow: #ffcc00;
+$light-yellow: #ffe066;
+$pink: #ff66cb;
+$light-pink: #ffb3e5;
+$white: #fff;
+
+// You can use variables inside variables
+$primary: $yellow;
+$secondary: $pink;
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+// Font Families
+$helvetica: Helvetica, Arial, sans-serif;
+$open-sans: 'Open Sans', sans-serif;
